@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-	<name>asanifastcopy</name>
-	<displayName><![CDATA[Asani - Fastcopy]]></displayName>
-	<version><![CDATA[1.2]]></version>
-	<description><![CDATA[Asani - Fast copying products to category]]></description>
-	<author><![CDATA[asani.pl]]></author>
-	<tab><![CDATA[front_office_features]]></tab>
-	<is_configurable>1</is_configurable>
-	<need_instance>1</need_instance>
-	<limited_countries></limited_countries>
+    <name>ppfastcopy</name>
+    <displayName><![CDATA[Fast Product Copy]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Module for fast product copying between categories]]></description>
+    <author><![CDATA[PrestaPilot]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+    <limited_countries></limited_countries>
 </module>
